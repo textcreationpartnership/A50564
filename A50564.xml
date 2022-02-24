@@ -1,0 +1,949 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Melius inquirendum into the birth of the Prince of Wales, or, An account of several new depositions and arguments pro and con and the final decision of that affair by the grand inquest of Europe, being a supplement to the depostions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50564</idno>
+            <idno type="STC">Wing M1646</idno>
+            <idno type="STC">ESTC R918</idno>
+            <idno type="EEBO-CITATION">13419551</idno>
+            <idno type="OCLC">ocm 13419551</idno>
+            <idno type="VID">99494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 467:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Melius inquirendum into the birth of the Prince of Wales, or, An account of several new depositions and arguments pro and con and the final decision of that affair by the grand inquest of Europe, being a supplement to the depostions.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wilks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99494:1"/>
+            <p>
+               <hi>A MELIUS INQUIRENDUM</hi> Into the BIRTH OF THE Prince of WALES: OR An ACCOUNT of ſeveral New Depoſitions And <hi>ARGUMENTS Pro</hi> and <hi>Con,</hi> and the Final Deciſion of that Affair BY THE GRAND INQUEST OF EUROPE, BEING A Supplement to the <hi>DEPOSITIONS Publiſh'd by AUTHORITY</hi> in October laſt.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Wilks</hi> in St. <hi>James</hi>'s Street. 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99494:2"/>
+            <pb n="1" facs="tcp:99494:2"/>
+            <head>Conſultation of the ORACLE, by the Great Men of <hi>England,</hi> and the Potentates of the Earth, to know if the <hi>Prince of WALES,</hi> (Given of God) <hi>Diu dateus,</hi> be Suppoſitious, or Legitimate.</head>
+            <p>AS ſoon as the darkneſs of the Night was diſper<g ref="char:EOLhyphen"/>ſed, and the Morning had appeared, the Gates of the Temple of the Divinity opened them<g ref="char:EOLhyphen"/>ſelves, and one might ſee all the Potentates of the Earth haſtening thither: Great number of Princes, and mighty Mouarchs, many <hi>Heraclit's,</hi> and <hi>De<g ref="char:EOLhyphen"/>mocrit's,</hi> the one ſad, and the other merry, for the Birth of this new <hi>Meſſias;</hi> the <hi>Catholick</hi> Princes, were in diſpute with the <hi>Proteſtants,</hi> the latter did maintain; That the Prince of <hi>Wales</hi> was Suppoſitious, and the firſt the contrary. It was then reſolved, by one part, as well as the other, to re<g ref="char:EOLhyphen"/>fer the buſineſs to the Oracle, and that the Divine <hi>Appollo</hi> ſhould decide a Queſtion, whereon the Happineſs of <hi>Europe</hi> depended.</p>
+            <p>The <hi>POPE</hi>
+            </p>
+            <p>Being the firſt advanced, kneeled to the Earth, and ha<g ref="char:EOLhyphen"/>ving taken in each hand, a certain Compoſition, went on foot to the entrance of a little Cavern, as ſoon as he found himſelf within, with a great deal of eagerneſs and haſte, he ſpoke</p>
+            <p>To the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>I deſire to know four things before my Death.</q>
+            </p>
+            <p>
+               <q>The Firſt is to ſee <hi>Conſtantinople</hi> purged from Execrable <hi>Mahometiſm,</hi> by my good Son <hi>Leopold,</hi> Emperor of the <hi>Eaſt</hi> and <hi>Weſt.</hi>
+               </q>
+            </p>
+            <p>
+               <q>The Second, to ſee my Eldeſt Son, the King of France, to repent himſelf of all thoſe Affronts, that he hath com<g ref="char:EOLhyphen"/>mitted during his Reign, againſt the Holy See, againſt the other Kings his Brethren, and againſt his poor people.</q>
+            </p>
+            <p>
+               <q>The Third, to ſee my Son <hi>Charles</hi> the Il. always poor, become ſufficient powerful, to revenge himſelf of his Brother-in-Law, and give to the Throne of <hi>Spain</hi> a Suc<g ref="char:EOLhyphen"/>ceſſor, whether Legitimate, or Suppoſitious, according to the Example of King <hi>James.</hi>
+               </q>
+            </p>
+            <p>
+               <q>The Fourth, to learn if my Son <hi>James</hi> the Il. he well fixed on his Throne, and if the Young Prince of <hi>Wales,</hi> ſhall be Legitimated by the Parliament.</q>
+            </p>
+            <p>As ſoon as the Holy Father had ended, all thoſe Powers that had followed him, were impatient to ſpeak of the Queen of <hi>England</hi>'s Lying-in, and of the Birth of the Young Prince; and altho' the Cardinal of <hi>Furſtemberg,</hi> deſired it, and would by all meant ſpeak of his Election, he was ordered to hold his Tongue, and it was reſolved, that the Court of <hi>England</hi> ſhould firſT be allowed to give reaſons whereby ſhe pretends to prove, that the Prince of <hi>Wales</hi> is Legitimate; that the <hi>Proteſtane</hi> Princes, who had Argu<g ref="char:EOLhyphen"/>ments to prove the contrary, ſhould be heard next: That the Queſtion ſhould be diſputed with mildneſs, and mo<g ref="char:EOLhyphen"/>deration, and that the Court of <hi>France,</hi> as well as the Court of <hi>England,</hi> as Allies, ſhould be deſired to occaſion no Di<g ref="char:EOLhyphen"/>ſpute, but leave it fairly to the deceſſion of Juſtice.</p>
+            <p>The KING of <hi>E—d</hi>
+            </p>
+            <p>Attended by Father <hi>Petres.</hi> who followed him ſtep by ſtep, approached the Holy Cavern, and thus ſpoke to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I give God thanks. for giving me a Son, on the 20th day of <hi>June,</hi> 1688. and that he gave a Happy Delivery to the Queen my Wiſe, by the Birth of the Prince of <hi>Wales.</hi>
+               </q>
+            </p>
+            <p>His Majeſty had ſcarce made an end of pronouncing theſe words, but a <hi>Proteſtant</hi> Prince interrupted him ſaying.</p>
+            <p>
+               <q>We all give thanks to God, becauſe we have diſcover<g ref="char:EOLhyphen"/>ed, that this Young Prince is the Son of the Society of Jeſuits, and that he never had any Royal Blood in him.</q>
+            </p>
+            <p>Theſe Words were no ſooner delivered, but Father <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tres</hi> advanced, and having ſixed his Triangular Cap upon his head, to ſhew his indignation, thus ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>The Hereticks do nothing but laugh at the Queens Ly<g ref="char:EOLhyphen"/>ing in, as if the Prince of <hi>Wales</hi> were only a ſuppoſited In<g ref="char:EOLhyphen"/>fant; for my part, who was not a moment abſent from the Queen, I know better than any perſon, and if I do not tell truth, I will call Mrs. <hi>Wilks</hi> as a Witneſs.</q>
+            </p>
+            <p>It was ſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rce obſervable that <hi>Petres</hi> had ſpoke ſo much; the Prieſts of the Temple being imployed in furniſhing the ſoul of <hi>Wilks,</hi> with proper Ideas, to make her Recollect. To the end that ſhe might diſcover the Intrigue, ſhe made her ſTege upon the skin of Sacrifices rubbed with certain Drugs which diſturb the Brain, and being preſent at the Holy Cavern, ſpoke thus.</p>
+            <p>
+               <q>It is eaſie to prove, that the Queen was really with Child if one conſiders that ſhe kept her Bed at her Lying<g ref="char:EOLhyphen"/>in for 2 or 3 days, without getting up, and the rather for that ſhe never went abroad, while ſhe was big.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Ordered, that ſhe ſhould hold her peace, if ſhe had no better proof.</p>
+            <p>The Prieſteſs of the Temple conducted the Queen of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> as yet weak, and indiſpoſed, and having given her her hand to lead her into the Sanctuary, ſhe thus ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I prove that I have been with Child of a Young Prince, becauſe I had many pains, for 5 or 6 Months, and I have always heard it reported, that Women with Child are always ſubject to them.</q>
+            </p>
+            <p>Mrs. <hi>Cellier,</hi> who was near the Queen, had a mind to ſpeak again, deſired her Majeſty to add the ſickneſs ſhe
+<pb n="2" facs="tcp:99494:3"/>
+was ſpeaking of; that ſhe had ſeveral times been ſenſible of the Infants ſtirring in her Womb, and that theſe two proofs were convincing.</p>
+            <p>The PRINCESS of <hi>D—k</hi>
+            </p>
+            <p>Being called in her turn, came near and ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>I find it very difficult to believe, that the Young Prince of <hi>Wales</hi> is Legitimate; if it be true, what is ſaid, that he was ſome hours at St. <hi>James</hi>'s, afore the Queen came thi<g ref="char:EOLhyphen"/>ther to Lie-in.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Anſwered her.</p>
+            <p>
+               <q>This Proof is ſtrong, have you any Witneſſes?</q>
+            </p>
+            <p>The PRINCESS</p>
+            <p>Anſwered him,</p>
+            <p>
+               <q>Yes.</q>
+            </p>
+            <p>The R. Father <hi>SMITH,</hi> and Father <hi>ALIX</hi> JESUITS.</p>
+            <p>Conſpiring together in a deſign to deſtroy the proof, which the Princeſs had offered to produce.</p>
+            <p>Father <hi>SMITH</hi>
+            </p>
+            <p>As being the Eldeſt, ſpoke firſt to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I maintain, that the Queen hath been with Child, and that the Prince of <hi>Wales</hi> is Legitimate, by reaſon the Queen hath reſolved, at the preſent, to have a Daughter, and after that another Daughter, and then another Young Prince, that if it happens the firſt ſhould die, his Majeſty may be provided of a Succeſſor.</q>
+            </p>
+            <p>Father <hi>ALIX</hi>
+            </p>
+            <p>Took his Turn and ſaid,</p>
+            <p>
+               <q>For my part, I prove that there is nothing ſuppoſitious in the Perſon of the P. of <hi>Wales,</hi> and that he is the Legiti<g ref="char:EOLhyphen"/>mate Son of the King, becauſe he was informed, that the Child was Baptized on the 15 day of <hi>July,</hi> 1688. it being St. <hi>James</hi>'s day.</q>
+            </p>
+            <p>The Prieſts went out of the Holy Cavern, and returned before the Queens Ladies of Honour, and having made them drink a Glaſs of the Water of the River <hi>Hircinas,</hi> they ſaid:</p>
+            <p>
+               <q>We maintain, that the Queen hath been really with Child, becauſe ſhe was always troubled with a kind of a Gout, which hindred her going, and always obliged her to be carried in a Chair.</q>
+            </p>
+            <p>The A. B. of <hi>C—</hi>attended by his SUFFRAGANS.</p>
+            <p>Came near to the Divinity, extreamly pleaſed to have been acquitted in his Tryal, and that innocence had pre<g ref="char:EOLhyphen"/>vailed over Calumny.</p>
+            <p>The <hi>DIVINITY</hi>
+            </p>
+            <p>Made him be informed, by one of his Prieſts, that he was exhorted to reveal what he knew, or what he had lear<g ref="char:EOLhyphen"/>ned, concerning the Queens Lying-In; that there was no degree of power above the Gods, and that he was obliged in Conſcience to tell the things as they were, and being approached, he ſpoke to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>Becauſe you conjure me, by all that is moſt Holy in your Temple, to diſcover an Impoſture, which the Society of Jeſuits takes care to conceal from all <hi>Europe;</hi> I ſhall tell you then in two words, That the Prince of <hi>Wales, is ſup<g ref="char:EOLhyphen"/>poſitious,</hi> and that they put us in the Tower, at the very time the Queen was in the Straw, to the end that the Bps. of the Kingdom might not be preſent.</q>
+            </p>
+            <p>The KING of <hi>E—d</hi>
+            </p>
+            <p>Hearing this Diſcourſe, came forward haſtily, and being angry with the A. B. called him <hi>Rebel,</hi> adding, <hi>That he knew how to make him obey.</hi>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Anſwered the King. <q>That he had forgotten that the place where he Blaſphemed, was Holy, and that he ought to be ſatisfied long ſince, that the Gods eſteem bad Kings no more than ſilly Shepherds; that he ought to abate his fierceneſs, and thank the Gods for giving them more good things in this World, oftentimes, than they de<g ref="char:EOLhyphen"/>ſerve.</q>
+            </p>
+            <p>The KING</p>
+            <p>Being, deſirous to anſwer, what the A. B. had ob<g ref="char:EOLhyphen"/>jected, ſaid, <q>It was true that the Biſhops were put in the Tower, before the Queen lay-In; but alſo, that order was given to releaſe them, and there was nothing to hinder their Viſits; beſides, I am not willing to argue thus with my Subjects, I am a King and expect to be obeyed, with<g ref="char:EOLhyphen"/>out diſputing, and when I ſay that the Prince of <hi>Wales<g ref="char:punc">▪</g>
+                  </hi> is my Legitimate Son; this ought to ſuffice, and they ought to believe it.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Anſwered to all this, <q>That he was not well ſatisfied with his Majeſty's Behaviour, and that he ought to have more moderation, and to bring good proofs, becauſe we came thither to know if the Prince of <hi>Wales,</hi> was legitimate, or Suppoſititious, and not to diſpute his Royal Prero<g ref="char:EOLhyphen"/>gative.</q>
+            </p>
+            <p>The Prieſteſs had order to advance ſome</p>
+            <p>MEMBERS of the next PARLIA<g ref="char:EOLhyphen"/>MENT.</p>
+            <p>Who ſpoke thus to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>His Majeſty hath ſollicited us, by his chief <hi>Almoner,</hi> Father <hi>Peters,</hi> to legitimate his Son the Prince of <hi>Wales,</hi> when we ſhall meet in Parliament; and all the people cry in <hi>London,</hi> that it is a Suppoſititious Child, that his Father is a poor Citizen, and that his Mothers a poor Woman, which the Jeſuits, have perſwaded by money, to keep this ſecret.</q> The</p>
+            <p>ORACLE</p>
+            <p>Orders the Prieſteſs to conduct in the</p>
+            <p>
+               <pb n="3" facs="tcp:99494:3"/>Earl of <hi>S—L—D</hi>
+            </p>
+            <p>To ſee what he had to anſwer, to what was propoſed. <hi>S—L—D</hi> having order to enter, the holy Cavern, deſired, before that to abjure his Religion, and to aſſiſt at the Holy Office, in the <hi>Kings Chappel,</hi> and to give a proof of a pro<g ref="char:EOLhyphen"/>found reſpect. After which he ſaid,</p>
+            <p>
+               <q>The Prince of <hi>Wales,</hi> is ſo much the more Legitimate, and the ſuppoſition of which they accuſe her Majeſty, is the rather a Callumny, by how much the big Belly of the Queen hath been accompanied, with many wonders, <hi>viz.</hi> As the Queen ſtept, an Angel appeared to her ſeveral times, and ſaid to her, <hi>Have Courage you ſhall bring forth a Son, and his Name ſhall be called</hi> WALES: The Queen awaking, ſtarted, and ſaw that this Angel, was like to him, that appeared long ſince to <hi>Mary</hi> the Mother of God.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Asked him how he knew it to be an Angel?</p>
+            <p>S—L—D</p>
+            <p>Anſwered, that Father <hi>Peters</hi> had told him ſo.</p>
+            <p>The Lawyer <hi>P—n,</hi> one that pleaded for the Biſhops,</p>
+            <p>Hearing that the Earl of <hi>Sunder land</hi> would prove the Prince of <hi>Wales</hi> to be legitimate, by the greateſt Impoſture that ever was, could not forbear ſpeaking into the Holy Cavern, as loud as if he had pleaded in <hi>Weſtminſter-</hi>Hall, and ſaid openly, that it was a ſhame, that ſuch a man as he, whom his majeſty had Honoured with his charge of Secretary of State, ſhould have ſo mean and low thoughts, and ſo unworthy of a man of Honour; he ought to have known, that this Angel, of whom he was ſpeaking of, was one of the Queens Foot-men, who had been inſtructed by the Jeſuits to play this part: And that the King, having ſurpriſed him, with his Sword wounded him in his Arm.</p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Ordered the Prieſts, to turn out <hi>S—L—D,</hi> and bring the</p>
+            <p>Lord <hi>CHANCELLOR.</hi>
+            </p>
+            <p>Who ſpoke to this purpoſe, to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>The greateſt proof that I can offer, to juſtifie that there is no ſuppoſition in the Birth of this Young Prince, is the coming of ſo many Miniſters from all the Courts of <hi>Europe</hi> to Congratulate his Majeſty, and pay their homage to this Young Prince. As to the reſt, his Majeſty was tranſ<g ref="char:EOLhyphen"/>acted at his Council of Conſcience, with Father <hi>Peters,</hi> and he forbids to inquire into what paſſeth there: So if there be any ſuppoſition, it is a ſecret, that very few per<g ref="char:EOLhyphen"/>ſons know at Court. And the King hath order'd us, to compel the people to believe the Prince of <hi>Wales</hi> to be le<g ref="char:EOLhyphen"/>gitimate. And this is enough, and we ought as much as in us lies, to adore theſe great myſteries, and by no means pry into them.</q>
+            </p>
+            <p>As ſoon as my Lord <hi>Chancellor</hi> had ſpoken, the <hi>Lawyers,</hi>
+            </p>
+            <p>L—s, F—n, S—r, T—y, F—b, S—s</p>
+            <p>Were ordered, to anſwer what my <hi>Lord Chancellor</hi> had ſaid; they all unanimouſly ſaid, <q>That having gained the Cauſe for the Biſhops, they would do their endeavour to get that for the people alſo: and to maintain, by an au<g ref="char:EOLhyphen"/>thentick Diſcourſe, which they would publiſh concerning a ſuppoſititious Birth, that the Prince of <hi>Wales</hi> was ſup<g ref="char:EOLhyphen"/>poſited, but they prayed the Divinity to grant them ſome time, the</q>
+            </p>
+            <p>ORACLE</p>
+            <p>Anſwered them, that it was granted, and that in the mean time the Prieſts ſhould be examined of ſuch as are to appear.</p>
+            <p>The Prieſts had order to introduce the</p>
+            <p>JESUITS of the College of the <hi>SAVOY.</hi>
+            </p>
+            <p>The moſt ancient of them, having taken off his Trian<g ref="char:EOLhyphen"/>gular Cap, ſaid,</p>
+            <p>
+               <q>That the greateſt proof that they had (that the Prince of <hi>Wales</hi> was the lawful Son of the King) was, that his Majeſty had promiſed on the day of his Coronation, that he intended to give a Succeſſor to the Crown, and that the King had now performed his Royal Word, in giving them this Young Prince, who they ſhould always ac<g ref="char:EOLhyphen"/>knowledge as Legitimate, ſince they being <hi>Roman Catho<g ref="char:EOLhyphen"/>licks,</hi> it was much for the advantage of their Society. The</q>
+            </p>
+            <p>ORACLE</p>
+            <p>Anſwered, <q>That theſe Reaſons proved that the King had a Succeſſor, but the Queſtion now, was to know, if this Succeſſor were of the blood Royal.</q> The Prieſteſs had order to cauſe them to go out, and to introduce the</p>
+            <p>NON CONFORMISTS, <hi>the</hi> QUAKERS <hi>and</hi> PRESBYTERIANS.</p>
+            <p>The Quakers being come in, <q>ſaid they had preſented many Addreſſes to his Majeſty, for to thank him for the Liberty of Conſcience he had granted them, but that they acknowledged now by experience, that he would not keep his word, and that he would break his word, as of<g ref="char:EOLhyphen"/>ten as it tendeth to make him abſolute; that they think the Prince of <hi>Wales</hi> is ſuppoſitious, and that they will give their proofs in Writing.</q>
+            </p>
+            <p>The Nonconformiſts ſay, <q>That his Majeſty is full of deſigns, which he hath to advance the <hi>Papiſts,</hi> in all charges, and that his Favours are chiefly reſerved for the Jeſuits, and that at laſt, he will repent, for having aſſiſt<g ref="char:EOLhyphen"/>ed at the making ſo many Innovations, and as to the Prince of <hi>Wales,</hi> it was eaſie to ſuppoſe it ſuppoſititious, becauſe it was a Month before the Queen lay in.</q>
+            </p>
+            <p>The Presbyterians ſay in their turn, <q>That what hath paſſed at the Birth of this Young Prince, where Father <hi>Peters,</hi> and <hi>Cellier,</hi> only aſſiſtants, is a convincing proof, that there was a manifeſt ſuppoſition, and that one only ought to examine the Circumſtances of this Birth to make it appear.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Ordered a Prieſt to take in Writing, all theſe Depoſiti<g ref="char:EOLhyphen"/>ons, and omit nothing.</p>
+            <p>The Preiſts had order to introduce the Forreign Prin<g ref="char:EOLhyphen"/>ces, and their Embaſſadors.</p>
+            <p>The KING of <hi>FRANCE</hi>
+            </p>
+            <p>Before the entred the Holy Cavern, according to the Ex<g ref="char:EOLhyphen"/>ample of the Emperor <hi>Heraclitus,</hi> made his Army be purg<g ref="char:EOLhyphen"/>ed of the Dragoons for three days, who came from the hunting the new Converts, and having opened the Holy Evangaliſt, ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I maintain, at the peril of my life, that the Young Prince of <hi>Wales</hi> is Legitimate, and if I ought to tranſport my Armies, by my Bombs, and my Carcaſſes, I would
+<pb n="4" facs="tcp:99494:4"/>
+reduce the World in to Aſhes, and chaſtife and the Rebellious Nation, that oppoſe the Deſign of King <hi>James</hi> my Couſin.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Anſwered him, <q>That no one ought to enter into this Holy Caveru, to make <hi>French Rhodomantades,</hi> that the buſineſs in hand was to prove he was legitimate, or ſup<g ref="char:EOLhyphen"/>poſititiou.</q>
+            </p>
+            <p>Father <hi>La CHASE</hi>
+            </p>
+            <p>Hearing them ſpeak of a ſuppoſititious Child, came for<g ref="char:EOLhyphen"/>ward, the Preiſts ſtopped him, pulling him by the arm, and told him, <q>That he knew very well, there was no ſafe<g ref="char:EOLhyphen"/>ty within the Cavern, for ſuch as came not with good in<g ref="char:EOLhyphen"/>tentions</q> ſo that being drawn near, he made many Bows, killed the Statue of <hi>Trophanius,</hi> and ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>I hold the Prince of <hi>Wales</hi> is legitimate, for two ſtrong Reaſons.</q>
+            </p>
+            <p>
+               <q>The Firſt, Becauſe my Maſter is his Godfather.</q>
+            </p>
+            <p>
+               <q>And Secondly, Becauſe my Maſter hath ſent him his Spirit, to inſpire him in the Cradle, with the love for our Society, and with a hatred to Hereſie.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Anſwered, <q>That this would not ſignifie any thing, and if he had no other reaſon, he might retire, as ſoon as he could</q> The Prieſts took his Cap, and threw it out of the Cavern, and having puſhed him out, gave their hands to the</p>
+            <p>DAVPHIN.</p>
+            <p>Who came from Hunting the Wolf, and having conduct<g ref="char:EOLhyphen"/>ed him into the Cavero, made him ſhut his eyes, and ask<g ref="char:EOLhyphen"/>ed him the number, and the name of the things he came to conſult about; and after retired into a little Grotto, and having taken the water of a Spring that is hid there, the Divinity ordered him to ſpeak, which he did thus.</p>
+            <p>
+               <q>I do not intermeddle in other mens affairs, and it little concerns me, whether the Prince of <hi>Wales</hi> be legitimate or not; I only complain that my Father doth all for him<g ref="char:EOLhyphen"/>ſelf, but nothing for me: The Arch-Duke <hi>Joſeph</hi> is made King of <hi>Hungary</hi> at 12 years of age; and I am but Dau<g ref="char:EOLhyphen"/>phin at 15.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Anſwered, <q>That there was no buſineſs concerning the Arch-Duke <hi>Joſeph</hi> the Emperor's Son: but of the Prince of <hi>Wales,</hi> Son of King <hi>James,</hi> to know if he were legiti<g ref="char:EOLhyphen"/>mate, or nor.</q>
+            </p>
+            <p>The Prieſts introduced</p>
+            <p>Madam <hi>La</hi> DAPHINE</p>
+            <p>Who appeared with much reſpect and Veneration, ha<g ref="char:EOLhyphen"/>ving made many Sacrifices to <hi>Appollo</hi> of <hi>Clarot,</hi> ſhe ſpake thus, to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>Praiſed be God, that he hath given me Children, even more than I deſired, I complain of the misfortune of ſome poor Queens, who do whatever is poſſible, to have ſome, and yet can have none, but are at length forc'd to ſuppo<g ref="char:EOLhyphen"/>ſite them, and to make them paſs for their own; howe<g ref="char:EOLhyphen"/>ver it be, ſince I am in this Holy place, for to ſay what I think, the greateſt proofs I can offer, are the great pub<g ref="char:EOLhyphen"/>lick Rejoycings, and the <hi>Te Dewn Landamus</hi> ſung in all Churches of <hi>France.</hi>
+               </q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Seeing that Madam the <hi>Dauphine,</hi> ſpoke with a great freedom and naturalneſs, ordered the Prieſteſs to accom<g ref="char:EOLhyphen"/>pany her, and made her a preſent of ſome Reliques.</p>
+            <p>The Prieſteſs re-entred immediately, followed by the Young</p>
+            <p>QUEEN of <hi>P—L.</hi>
+            </p>
+            <p>Who after having performed the uſual Ceremonies, ſpoke in this manner to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>The <hi>Elector Palatine</hi> hath Married me to <hi>Don Pedro,</hi> up<g ref="char:EOLhyphen"/>on condition that I bring him Legitimate Children, and by conſequence a lawful Succeſſor, and not an Infant ſuppoſited: The truth is, he had a mind to ſuch a fertile Houſe as ours is, in compariſon of the Houſe of <hi>Modena,</hi> of which the World hath ſpoken variouſly: But ſince I am here, to ſpeak my thoughts concerning the Prince of <hi>Wales,</hi> I will prove it to be a legitimate Child, becauſe it came into the World by the Prayers made to our Lady of <hi>Lorette.</hi>
+               </q>
+            </p>
+            <p>The QUEEN of <hi>S—N</hi>
+            </p>
+            <p>Hearing them ſpeak of Children, made haſte to come in, and prayed the Prieſteſs to introduce her quickly, adding, that ſhe had ſomewhat of conſequence to ſay, being en<g ref="char:EOLhyphen"/>tred, ſhe began thus, to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>All the Queens of <hi>Europe</hi> have Children, except me, notwithſtanding I am Young, and Handſom, Why can<g ref="char:EOLhyphen"/>not I have one, as well as the Queen of <hi>England?</hi>
+               </q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Anſwered her, <q>That he did not concern himſelf with the getting of Children, nor examined the cauſes of Bar<g ref="char:EOLhyphen"/>renneſs, or Fertility, but only to know if the Child of the Queen of <hi>England,</hi> was legitimate, or not.</q>
+            </p>
+            <p>The QUEEN of <hi>S—N</hi>
+            </p>
+            <p>Reply'd, <q>That ſhe knew nothing, but that it was re<g ref="char:EOLhyphen"/>ported legitimate.</q>
+            </p>
+            <p>The Prieſteſs conducted the</p>
+            <p>Three Siſters of Father <hi>PETERS.</hi>
+            </p>
+            <p>At the riſe of the River, and after having made them drink of two ſorts of Water, <hi>viz.</hi> that of <hi>Lethe,</hi> which blots out of the Soul all profane thoughts, and that of <hi>Ninemo<g ref="char:EOLhyphen"/>ſine,</hi> which hath the virtue to make one remember whate<g ref="char:EOLhyphen"/>ver is ſeen in the Holy Cavern.</p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Asked them, and ſaid to them, <q>That they ought to de<g ref="char:EOLhyphen"/>clare all that they knew concerning the Prince of <hi>Wales,</hi> how he came into the World, who was his Father, and who his Mother, that there had been already taken the Depoſitions of many Princes and Princeſtes; but that the Oracle was not yet ſatisfied, that there yet remained ſome obſcurity in all that was ſaid; that in the mean time, they ſhould be ſhut up in a Grote, until they did reveal this Myſtery.</q>
+            </p>
+            <p>After appeared,</p>
+            <p>
+               <pb n="5" facs="tcp:99494:4"/>A Troop of <hi>Prieſts,</hi> and <hi>Prophets,</hi> of <hi>Poets,</hi> of <hi>Interpreters,</hi> of <hi>Prelates,</hi> and <hi>Sacri<g ref="char:EOLhyphen"/>ficers.</hi>
+            </p>
+            <p>
+               <q>The Pretreſs came before them, and told them then, That they were informed, that the <hi>Epicureans</hi> were ba<g ref="char:EOLhyphen"/>niſhed from that holy place, and thoſe that were in the Fields had order to paſs no farther.</q>
+            </p>
+            <p>The Temple of the Oracle bring near to <hi>Parnaſſus,</hi> one might ſee the Muſes compoſing by the ſweet harmony of their Inſtruments and Voices, a Quire, in which was ſung the Triumph of the Prince of <hi>Wales.</hi>
+            </p>
+            <p>After this one might ſee the Young Prince carried into the Temple by fourſcore Jeſuits, (as yet afore <hi>Jupiter Hammon</hi> was by 80 Prieſts) in a kind of Goudolo of Gold, from whence hung knobs of Silver, followed by a great number of Monks of all Orders, ſinging with a loud voice holy Hymns to his Glory: As ſoon as the little Prince was within the Temple all the Prieſts and Prieſteſſes of <hi>Apollo</hi> incompaſſed him, and having examined and conſidered the features of his face, ſaid aloud (contrary to the cuſtom of our modern Goſſips) That he was not at all like his Father. The</p>
+            <p>DIVINITY</p>
+            <p>Ordered, That ſuch ſhould be introduced, as had not yet appeared. The Pretress came before</p>
+            <p>Mr. <hi>SKELTON</hi> Embaſſador of his <hi>Bri<g ref="char:EOLhyphen"/>tannick</hi> Majeſty to the King of <hi>France,</hi>
+            </p>
+            <p>And being brought to the entry of the Holy Cave, thus ſpoke.</p>
+            <p>
+               <q>I prove the Prince of <hi>Wales</hi> to be Legitimate; becauſe the King his Father had wrote to me, to ſpare no charge in making Fire-works and ſplendid Feaſtings.</q>
+            </p>
+            <p>The Author of the <hi>Triumph of Liberty</hi>
+            </p>
+            <p>Being come up, anſwered to <hi>Mr. Skelton,</hi> That if his Ex<g ref="char:EOLhyphen"/>cellency had no other proof to give, he ought to expect to ſee himſelf very ſpeedily cenſured, and condemned; and that having already proved in his Book, That King <hi>James</hi> the It. had not been lawfully called to the Crown of <hi>England,</hi> but that he had Uſurped it, ſince the Laws of the Land have Excluded all <hi>Romand Catholick Princes;</hi> he had reſolved to prove to him preſently, That the Prince of <hi>Wales</hi> was never of Royal Blood; That this is a ſuppo<g ref="char:EOLhyphen"/>ſitition, believing the Society contrived it to deceive Fools.</p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Ordered, That they ſhould cauſe to come in</p>
+            <p>The Author of <hi>Parliamentum Pacificum</hi>
+            </p>
+            <p>To ſee what he had to anſwer thereto.</p>
+            <p>The Pretreſs conducted him to the Cavern, and made the Author of the <hi>Triumph of Liberty</hi> retire ſome paces back, for fear leſt a noiſe ſhould ariſe between theſe two different Spirits; the Author of <hi>Parliamentum Pacificum</hi> ſaid thus to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I cannot for bear the admiring the Divine Wiſdom, for giving a Child to his Majeſty in his old years; and at a time when we were near ſeeing a ſecond Queen <hi>Elizabeth</hi> to Reign; and the greateſt proof that I have that this young Infant is Legitimate, is the ill opinion his Majeſty hath of all the Hereticks. The</q>
+            </p>
+            <p>ORACLE</p>
+            <p>Anſwered him, That he had not in the leaſt ſatisfied the Queſtion which the Author of the <hi>Triumph</hi> had propo<g ref="char:EOLhyphen"/>ſed, <hi>viz.</hi> That his Majeſty had Uſurped the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> he ought to prove the contrary afore he came to the ſuppoſitition. The</p>
+            <p>Earl of <hi>AVAUX</hi> Ambaſſador of <hi>FRANCE</hi>
+            </p>
+            <p>Took his time, and the Pretreſs having received ſome <hi>Louis</hi> which he preſented her with, he was immediately introduced, and brought the affair into a few words. The</p>
+            <p>ORACLE</p>
+            <p>Asked him then, How that he pretended to prove the Prince of <hi>Wales</hi> to be Legitimate; his Excellency ſaid;</p>
+            <p>The greateſt proof he had, was a Magnificent Treat, the <hi>Monſieur Albeville</hi> gave in the Prince <hi>Maurice</hi> his Pal<g ref="char:EOLhyphen"/>lace to all the Miniſters of Forreign Courts, where we were near 300 perſons that he invited.</p>
+            <p>After Mr. <hi>D'Avaux,</hi>
+            </p>
+            <p>Mr. <hi>St. DISDIER</hi>
+            </p>
+            <p>Advanced, and as he knew the Hiſtory to the bottom, and is knowing in all things; he ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>That it was not difficult to prove that the Queen of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> had really been with Child, if one conſider that the Queen Mother lay-in with <hi>Louis</hi> the XIV. after ſhe had been barren twenty two years, which is the reaſon they call the King <hi>Given of God;</hi> and at this day the Prince of <hi>Wales</hi> hath the ſame Name, becauſe he certainly came into the World by the gift of Heaven.</p>
+            <p>Mr. <hi>MOREAV</hi> Envoy Extraordinary from <hi>POLAND</hi>
+            </p>
+            <p>Entred without Ceremony, and diſpatched his buſineſs with a laughing air; the reliſh of a glaſs of certain delicate Wine he drank at the Pallace of Prince <hi>Maurice</hi> made him not want matter or words in ſpeaking to the</p>
+            <p>DIVINITY.</p>
+            <p>For my part I ſhall prove the Prince of <hi>Wales</hi> is not ſup<g ref="char:EOLhyphen"/>poſititiou; becauſe Mr. <hi>Albeville</hi> roſe from the Table ſe<g ref="char:EOLhyphen"/>veral times to fill us out to drink of a moſt excellent wine, and he did it with ſo graceful a mein, that I have reaſon to ſay, he hath not forgot his firſt imployment, [a <hi>Buler,</hi> or <hi>Footman.]</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:99494:5"/>Mr. <hi>ALBEVILLE</hi>'s Steward</p>
+            <p>Slipped into the Cavern without taking notice of the Pretreſs; and ſpoke thus to the</p>
+            <p>DIVINITY.</p>
+            <q>I am about to abjure my Religion to oblige my Maſter the Ambaſſador.</q>
+            <p>The PRETRESS</p>
+            <p>Bid him hold his Tongue, for here was nothing to do about Religion, but only to know how the Prince of <hi>Wales</hi> was Born.</p>
+            <p>The STEWARD</p>
+            <p>Anſwered, <q>That he had reſolved to tell all that he knew; but that he was only concerned in performing the Commiſſion he had from the Embaſſador the day of the Fire-works; which was to ſearch out ſome <hi>Engliſh</hi> (or other unknown perſons) to borrow for them white Perriwigs, a Gentiel Dreſs, fine Linen, Cravats, and Cuffs of <hi>French Point;</hi> and to procure them Footmen to follow, as if they had been my Lords, or other of con<g ref="char:EOLhyphen"/>ſiderable Quality, that I had order to ſeat them at the Table to make a figure, and fill ſeven or eight places, be<g ref="char:EOLhyphen"/>cauſe that ſome of the States had no mind to come.</q>
+            </p>
+            <p>The PRETRESS</p>
+            <p>(Perceiving that this Diſcourſe diſpleaſed <hi>Monſieur Albe<g ref="char:EOLhyphen"/>ville</hi> who was preſent, who was concerned to do things ho<g ref="char:EOLhyphen"/>nourably on ſuch occaſions; beſides that what the Steward ſaid, did more make known what was done on the day of rejoycing for the young Prince, than to prove that he was of the Blood Royal) made him retire.</p>
+            <p>As ſoon as the Steward had done, the Pretreſs introdu<g ref="char:EOLhyphen"/>ced <hi>Monſieur D' Albeville.</hi>
+            </p>
+            <p>The <hi>DIVINITY</hi>
+            </p>
+            <p>Told him, <q>That all the World was ſurpriſed to ſee what paſſed at this day, and that it was a thing that all people ſpoke of, that one would make a ſuppoſited Child for a legitimate.</q>
+            </p>
+            <p>Monſieur <hi>ALBEVILLE</hi>
+            </p>
+            <p>Cryed out in the Diſcourſe, calling Heaven and Earth to Witneſs; ſaying, <q>That it was a pure ſcandal that he had caus'd from the day that he had notice of the Birth of the Young Prince to make Fire works, which had ſur<g ref="char:EOLhyphen"/>priſed the 7 Provinces with their Beauty and Magnifi<g ref="char:EOLhyphen"/>cence, where was to be ſeen the Young Prince upon a Globe, in the midſt of a Triumphal Arch where theſe Words were written, which contain the year of his Birth.</q>
+            </p>
+            <p>
+               <q>aVgVſta eX IaCobo Magno pro<g ref="char:EOLhyphen"/>Les DIV VIVat. M. DC. LXXXVIII.</q>
+Which is, <q>
+                  <hi>That the Son of</hi> Great JAMES <hi>Live long.</hi>
+               </q>
+            </p>
+            <p>Upon this Triumphal Arch you might ſee St. <hi>George,</hi> who repreſented the King, trampling under his feet the Dragon of Rebellion, and aboliſhing the Teſt and Penal Laws: There one might ſee the good Conſcience of the Jeſuits, repreſented by the Woman that was near the Dragon, firm, and unmoved, notwithſtanding the rigours of the Penal Laws. There was to be ſeen two Guardian Angels near the perſon of the Prince, to deliver him from the Ambuſcades of the <hi>Quakers, Conformiſts,</hi> and <hi>Nonconform<g ref="char:EOLhyphen"/>iſts,</hi> from the <hi>Presbyterians,</hi> the <hi>Arminian</hi> Biſhops, the <hi>Calviniſts, Lutherans, Anabaptiſts,</hi> and other Seets. There the Dragon was to be ſeen, devoured by its own proper Flames, while the Crown, and all other Figures were in<g ref="char:EOLhyphen"/>tire, which was a Prognoſtick, That his Majeſty ſhould bring about his great deſigns. After this, ought the He<g ref="char:EOLhyphen"/>reticks to maintain that the Young Prince is not legiti<g ref="char:EOLhyphen"/>mate? And that all this hath been done for a ſuppoſited Child?</p>
+            <p>The Secretary of Monſieur <hi>D' Albeville</hi>
+            </p>
+            <p>Came forwards with all ſpeed, and ſoftly put his Excel<g ref="char:EOLhyphen"/>lency in mind to add ſomething of a number of incompa<g ref="char:EOLhyphen"/>rable flying Squibs, Fire-pots, Rackets, Wheels, <hi>&amp;c.</hi> which filled the air full of Stars, and Serpents, which pro<g ref="char:EOLhyphen"/>ved that the Prince was legitimate, becauſe they produced the effect that was deſigned.</p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Ordered the Jeſuits to enter, together with the Pricits that framed theſe Fire-works.</p>
+            <p>He that compoſed the Inſcription came firſt, ſaying,</p>
+            <p>
+               <hi>Non ſi commencia bene ſe non dal Cielo.</hi>
+            </p>
+            <p>I have my ſelf Compoſed,</p>
+            <p>
+               <hi>Veritas &amp; Juſtitia fulcimentum Throni Patris, &amp; erunt mei:</hi> As Virtue and Juſtice are the ſupport of my Father's Throne, ſo alſo ſhall they be of mine. I have moreover compoſed this fine device;</p>
+            <p>
+               <hi>Religio &amp; libertas, amplexatae ſunt:</hi>
+            </p>
+            <p>Liberty and Religion are united. Adding, That this was convincing, and that he had not compoſed this for an Inſant ſuppoſited.</p>
+            <p>The <hi>Almoner</hi> of the Embaſſador of <hi>France</hi>
+            </p>
+            <p>Came in his turn, and ſaid, That he himſelf had Com<g ref="char:EOLhyphen"/>poſed a ſhort Prayer, which begun. <hi>Ad Deum Optimum Maximum pro Rege, Principe, &amp; Gente Britanica Procuto brevis:</hi> To the Great God, for the King, Prince, and <hi>Brittiſh</hi> Nation, a ſhort Prayer. After this, one ought not to queſtion, that the Prince of <hi>Wales</hi> was not legiti<g ref="char:EOLhyphen"/>mate.</p>
+            <p>
+               <pb n="7" facs="tcp:99494:5"/>A Jeſuit of the <hi>S—ſh</hi> Ambaſſador</p>
+            <p>Preſſed hard, and being come in, ſaid, <q>That he had diſtributed a General Alms that Morning, and given to the poor ſeveral Shillings, and a Pint of Wine to every one to drink the Health of the Young Prince, that all this might ſerve to prove and diſabuſe the vulgar incre<g ref="char:EOLhyphen"/>dulity.</q>
+            </p>
+            <p>All the Domeſticks of Monſieur <hi>Albeville,</hi>
+            </p>
+            <p>Came in their turn and ſaid, That they had laboured more than 15 days to put things in order, and prepare a moſt ſumptuous Feaſt: Adding, That there could not remain any doubt of the Young Princes legitimacy, ſince the Ambaſſador had been at ſo great expence.</p>
+            <p>All the Muſicians came alſo, and ſaid, That they had ſung that day a very fine <hi>Te Deum,</hi> with excellent Muſick, and an incomparable Symphony, compoſed by Monſieur <hi>Hacquart,</hi> and that this alone was fully convincing.</p>
+            <p>The Players on the Violins came alſo and ſaid, that they were carried in a Boat during the time of the Feaſt, and that they had played the <hi>Follies of Spain,</hi> the <hi>Deſcent of</hi> Mars, and many other fine pieces, proper to the occaſion, for to divert the Embaſſadors who were in the Pallace of Prince <hi>Maurice;</hi> and that all this could not be done for a ſuppoſited Child.</p>
+            <p>Thoſe that had diſcharged the Cannon which came from <hi>England</hi> on purpoſe for this day, came and ſaid<g ref="char:punc">▪</g> It was not reaſonable to ſuppoſe ſo much noiſe made for no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>Thoſe that had pierced ſeveral Tuns of Wine came alſo and ſaid, That the Street was overflowed by ſix Fountains of excellent Wine, part Claret, and part White-wine of <hi>France</hi> and <hi>Spain;</hi> and one ought to believe that this was made for an Illegitimate Child.</p>
+            <p>An Unknown POET</p>
+            <p>Deſired the Pretreſs to permit him to enter into the holy Cavern, to repeat ſome Verſes which he had compoſed for the Glory of the Young Prince, on the day of his Tri<g ref="char:EOLhyphen"/>umph; he being come in ſaid,</p>
+            <p>Some <hi>Proteſtant</hi> LORDS</p>
+            <p>Sliding in in the Crowd, deſired the <hi>Divinity</hi> to give them Audience; one of them ſaid, That this Young Prince had let fall his Sceptre while he was upon the <q>Globe, and that this was an ill preſage. Another ſaid, That they had given the <hi>Hydra</hi> but 6 Heads, becauſe it was ſaid, they would not repreſent by it the 7 Provinces.</q>
+            </p>
+            <p>Another ſaid, <q>That St. <hi>George</hi> was devoured by the Mon<g ref="char:EOLhyphen"/>ſter, inſtead of the Monſter being devoured by St. <hi>George,</hi> and that all this proves manifeſtly, that the Child was ſuppoſited.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>Ordered the Pretreſs to introduce</p>
+            <p>Monſieur the PRINCE, Madam la Princeſs d' <hi>O—</hi> &amp; Meſſieurs Le ESTATS,</p>
+            <p>To ſee what they had to anſwer to ſo many Witneſſes, who had maintained the Kings ſide.</p>
+            <p>The Pretreſs went out of the Holy Cavern, and was humbly deſired, that ſhe would diſpenſe with them, for a great many reaſons, which was granted them.</p>
+            <p>The Pretreſs had order to call</p>
+            <p>Dr. <hi>B—t.</hi>
+            </p>
+            <p>Who being entred, ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>Who deſired her, That ſhe would diſpenſe with him from ſpeaking of the Affairs of <hi>England,</hi> for fear of ſaying too much: The</p>
+            <p>DIVINITY</p>
+            <p>Ordered him to tell his thoughts of the Queens lying-in, and of the Birth of the Prince of <hi>Wales.</hi>
+            </p>
+            <p>Dr. <hi>B—t</hi>
+            </p>
+            <p>Anſwered, <q>That ſuppoſing the Prince of <hi>Wales</hi> was le<g ref="char:EOLhyphen"/>gitimate, and that the Queen was truly his Mother, as they would maintain. It is to be preſumed, that it was extreamly the intereſt of the King, at a time, when his people did with difficulty obey him, to contrive, that the Queens lying-in ſhould be made according to the forms, by calling thither all the Peers of the Realm, as was always practiſed in the Court of <hi>England,</hi> becauſe it is known, that the people are naturally very difficult to perſwade, they ſcarce believing the things they ſee.</q>
+            </p>
+            <p>Author of the Book, whoſe Title is, <hi>The Miſ<g ref="char:EOLhyphen"/>chiefs that threaten the</hi> Proteſtants <hi>of</hi> England.</p>
+            <p>Seeing that every one endeavoured to ſpeak, deſired the Pretreſs to permit him to recite a Hiſtory of <hi>Puffen<g ref="char:EOLhyphen"/>dorfe,</hi> which proves, marvelous well, that it is eaſie to ſuppoſit a Young Prince, ſince we have in Hiſtories many Examples of it. The</p>
+            <p>ORACLE</p>
+            <p>Ordered him to recite the ſaid Hiſtory.</p>
+            <p>
+               <hi>Poffendorfe,</hi> a Celebrated Hiſtorian, ſpeaking of the Kings of <hi>Spain,</hi> ſaith, <q>After <hi>John</hi> the II. his Son <hi>Henry</hi> the IV. the diſgrace and infamy of that Crown ſucceed<g ref="char:EOLhyphen"/>ed to the Kingdom of <hi>Caſteile,</hi> for ſince he was e<g ref="char:EOLhyphen"/>ſteemed impotent to remove that conceit from the peo<g ref="char:EOLhyphen"/>ple, he made one <hi>Berrand Curva,</hi> lye with the Queen, and for a recompence of that ſervice, he made him Earl of <hi>Deſina;</hi> this Adultery produced a Daughter, named <hi>Jane,</hi> which <hi>Henry</hi> proclaimed Succeſſor to the Crown. This action is the more likely to be true, becauſe this Queen had ſometime after a Baſtard by another. But in fine, to diſcover this cheat, and to exclude <hi>Jane</hi> from ſucced<g ref="char:EOLhyphen"/>ing: They united together, and carried things ſo high, that they expoſed upon a Theatre, the Figure of <hi>Henry</hi> dreſſed in all his Royal Ornaments, and after having made a Proceſs againſt him, and brought an Accuſation againſt him, they ſtripped him of all his Cloaths, and threw him from top to bottom. After they proclaimed <hi>Alphonſus</hi> King, Brother of <hi>Henry.</hi> But this Farce cauſed terrible Shocks, and furious Agitations in the Kingdom, which came to bloody Battels; at laſt <hi>Alphonſus</hi> died, during theſe Troubles, in the year 1468.</q>
+            </p>
+            <p>The <hi>DIVINITY</hi>
+            </p>
+            <p>Ordered the three Siſters of Father <hi>Peters,</hi> to be brought out of the Grote they were ſhut in.</p>
+            <p>The Pretreſs conducted them into the Holy Cavern, being veiled.</p>
+            <p>
+               <pb n="8" facs="tcp:99494:6"/>The <hi>ORACLE</hi>
+            </p>
+            <p>Told, <q>That it was no longer time now to diſſemble; that wanting nothing but their Depoſitions, they ought ſeriouſly to reflect, and to ſpeak to him the plain truth, that all the World did with impatience expect the re<g ref="char:EOLhyphen"/>vealing this Myſtery.</q>
+            </p>
+            <p>She that ſtayed in <hi>London, ſaid,</hi> 
+               <q>That ſhe had ſeen one <hi>Peters</hi> her Brother, go often into three diffirent Houſes where there liv'd big-belly'd Women, <hi>viz.</hi> a Baker's Houſe, a Sword Cutlers, and a Millers, that ſhe had fol<g ref="char:EOLhyphen"/>lowed him ſtep by ſtep ſeveral times, and ſhe had obſer<g ref="char:EOLhyphen"/>ved, that he ſtopped oftneſt at the Miller's, and that ſhe had obſerved, that this Woman had been brought to Bed without any body knowing what became of the Child.</q>
+            </p>
+            <p>APOLLO</p>
+            <p>Seeing that the <hi>Queſtion</hi> had been long enough debated, made all the Powers be informed, that he was about to pronounce the Divine Oracle.</p>
+            <p>After the Divine Cavern was ſhut of a ſudden, and the Pretreſs had ordered, That they ought to waſh themſelves in the River <hi>Hercinas;</hi> after which, to make a Sacrifice to <hi>Trophonius,</hi> and all the Family, to <hi>Apollo,</hi> to <hi>Jupiter,</hi> to <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> to <hi>Ceres, Europa</hi> Nurſe to <hi>Trophonius,</hi> and not to eat during the three days of the Sacrificing, but of the Fleſh Sacrificed, and then appeared the laſt time, the</p>
+            <p>DIVINITY</p>
+            <p>Accompanied with her Pretreſs, and there was heard throughout the Cavern many Voices ſaying, <hi>The Child Suppoſited, the Monk reigning.</hi>
+            </p>
+            <p>The Commiſſioners of the High-Court of JUSTICE</p>
+            <p>Eſtabliſhed by the Parliament, to try <hi>Charles Stuart,</hi> came in a body from the other World, cauſing a Sword of Juſtice, and the Mace to be carried before them.</p>
+            <p>The Preſident <hi>BRADSHAW</hi>
+            </p>
+            <p>Being placed in a Chair of Crimſon Velvet, thus ſpoke to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>We have made an Unjuſt Proceſs againſt <hi>C. Stuart,</hi> when ſhall we form a Juſt one againſt <hi>James</hi> II. his Son?</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>When the Patiance of the good <hi>Engliſh</hi> ſhall be weary of ſuffering a falſe Prince of <hi>Wales</hi> to be put upon them.</p>
+            <p>
+               <hi>CROMWELL</hi> one of the Members of the High-Court</p>
+            <p>
+               <q>Advanced for a moment, out of the Crowd, and ſaid, Jeſu my God! What is it they ſay of <hi>James</hi> the II. all all the World cries out, and complains againſt him.</q>
+            </p>
+            <p>ORACLE</p>
+            <p>Anſwers him, <q>That King <hi>James</hi> the II. is a good Jeſuit, and pretends to die a Martyr of that Society.</q>
+            </p>
+            <p>DUKE of <hi>MONMOVTH.</hi>
+            </p>
+            <p>Before he preſented himſelf to the Divinity, the Pre<g ref="char:EOLhyphen"/>tr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs made him kiſs the Statue of <hi>Apollo</hi> of <hi>Claros,</hi> and made him at the ſame time drink a Glaſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Water, called <hi>Lethe,</hi> to make him forget his ſhameful death, and ſaid,</p>
+            <p>
+               <q>I made too much haſte to Death, and I have loſt by it. O would to God I were now living! What afair occaſion ſhould I have to ſecure the Libarties of the <hi>Engliſh</hi> Nation.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>
+               <q>It is long ſince you have been predeſtinated by the Society, to go reign in another World.</q>
+            </p>
+            <p>The Q. D—r to the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>Since the death of the King my Husband, I have had no ſatisfaction at Court, where nothing rules out Jeſuit<g ref="char:EOLhyphen"/>iſm: And as the Society is full of fury and rage when it atracks Hereſie, I have reſolved to go into <hi>Portugal,</hi> to avoid the Storm that is riſing: They have ſo moved the people, that one is obliged to ſuffer the Suppoſititiouſneſs of the Prince of <hi>Wales.</hi>
+               </q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>
+               <q>The Lightnings have flaſhed, and the Thunder grum<g ref="char:EOLhyphen"/>bled, if you love peace, and repoſe, ſtay not until the Bolts fall.</q>
+            </p>
+            <p>The EMPEROR.</p>
+            <p>The ſame Pretreſſes that yet afore conducted <hi>Alexander,</hi> and <hi>V<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpaſian,</hi> into the Sanctuary of <hi>Hammon,</hi> came to in<g ref="char:EOLhyphen"/>troduce the Emperor <hi>Leopold,</hi> and having made him a preſent of a Crown of Lawrels, conducted him into the Holy Cavern, and ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I have already filled the Univerſe, with the News of my Victories, extended the Frontiers of my Empire even to <hi>Belgrade:</hi> Planted Chriſtianity in all the Moſques of <hi>Ma<g ref="char:EOLhyphen"/>homet:</hi> Delivered the Electors of my Empire from the <hi>Ottoman</hi> fury; ſnatched off the Creſcent, and planted the Standard of the <hi>Roman</hi> Eagle on all the Towers of <hi>Hun<g ref="char:EOLhyphen"/>gary;</hi> made <hi>Rome</hi> to Triumph, and the Croſs of Jeſus Chriſt, in the midſt of the terrors of War: my Generals being tired with ſo many labours, ſollicit me to make peace: What ought I to do?</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>Leopold, Leopold,</hi> if thou wilt believe me, hearken no more to <hi>Loyola,</hi> make Peace with the Creſcent, <hi>(Turks)</hi> and War againſt the Sun. <hi>(France)</hi>
+               </q>
+            </p>
+            <p>Arch-Duke <hi>JOSEPH</hi> King of <hi>Hungary</hi>
+            </p>
+            <p>Having heard of the Surrender of that Important place of <hi>Alba Regalis,</hi> came on, and ſaid, to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>The Emperor my Father, hath gained on one ſide, and loſt on the other. <hi>France</hi> hath promiſed not to break the Truce, and notwithſtanding he every day advanceth on the <hi>Rhine,</hi> on the other ſide, the Jeſuits promiſe him the Univerſal Monarchy, if he continues the War. I beg you to diſcover the myſtery.</q>
+            </p>
+            <p>ORACLE.</p>
+            <p>
+               <q>The Jeſuits are Traytors to the Empire, baniſh them the Court. The</q>
+            </p>
+            <p>EMPRESS</p>
+            <p>After ſhe had ended her ſhort Devotions at St. <hi>Stevens,</hi> where <hi>Te Deum</hi> was ſung for the Proſperity of the Imperial Arms, ſhe came and ſaid to the</p>
+            <p>ORACLE</p>
+            <p>
+               <q>The Houſe of <hi>Auſhia</hi> hath triumphed over its greateſt Enemies, and if the Emperor my Husband, would believe me, we ſhould ſpill no more <hi>Ottoman</hi> blood.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>When the Emperor ſhall have ſhed as much <hi>French</hi> as he hath of the <hi>Ottoman</hi> Blood, he ſhall ſecure his Con<g ref="char:EOLhyphen"/>queſts, and have no more to fear.</q>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:99494:6"/>The <hi>GRAND SEIGNIOR,</hi> Emperour of the <hi>Turks.</hi>
+            </p>
+            <p>Seeing afar off the Prophetick Temple, he approach<g ref="char:EOLhyphen"/>ed the Holy Cavern, the entrance of which, was cover<g ref="char:EOLhyphen"/>ed with Leaves of Lawrel, which beſpake the Succeſs of the Chriſtian Arms, and making ſeveral Sighs, ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <hi>La illa alha</hi> Mahomet <hi>raſoul alha.</hi>
+            </p>
+            <p>The Great God, and our great Prophet <hi>Mahomet,</hi> my Brother <hi>Sultan,</hi> is Dethroned, to raiſe me upon his Throne, and in deſpite of the Rage of my Janiſaries, and of his Party, I have extinguiſhed the Fire that burned in the heart of my Empire: Being unskilful in the Art of War, I propoſe a Peace, to the Chriſtian Emperor, and I yield him all his Conqueſts, adding thereto, even <hi>Belgrade,</hi> fearing that my Basſaw ſhould betray me; and that the Uncircumciſed Army do not advance to <hi>Conſtantinople,</hi> I have ordered my Treaſury to be carried into <hi>Aſia,</hi> Day and Night my Prieſts go to the Holy <hi>Temple</hi> of <hi>Sophia,</hi> where the <hi>Al<g ref="char:EOLhyphen"/>coran</hi> is kept, and I ſend my Dervices to <hi>Meccha,</hi> and <hi>Medina,</hi> to Pray our Great Prophet, to have pity on the true Muſſelmen, and to deſire the State of <hi>Venice</hi> to make Peace. The ORACLE</p>
+            <p>
+               <hi>Notredame Cent. 3. Quat.</hi> II.</p>
+            <p>The KING of <hi>S—n, CHARLES</hi> the Second.</p>
+            <p>Afore the deſcended into the Divine Cavern, he was ordered, to ſpend a certain number of Days in a little Chappel, which is named <hi>Good Fortune,</hi> or <hi>Good Geni<g ref="char:EOLhyphen"/>us,</hi> after which being Introduced, he ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>All other Princes, reap Lawrels, in the Art of War, and extend the Frontiers of their Kingdoms; they be<g ref="char:EOLhyphen"/>come the Terror of their Subjects, and do a Thouſand Famous Exploits, to Eternalize their Names; for my part I am always the ſame, and inſtead of becoming great, I diminiſh, I Sow in Ungrateful and Barren Earth, which produceth nothing but Brambles. The Queen my Wife, gives me no Heir, notwithſtanding, the pains I take, to get her with Child. Oh! how hap<g ref="char:EOLhyphen"/>py is King <hi>J.</hi> the Second my Couſin, to have a Son? Oh! that the Queen my Wife had been heard, by the Lady of <hi>Loretto.</hi> I deſire you to tell me, what can make my Wife to have Children?</p>
+            <p>ORACLE.</p>
+            <p>You muſt have at hand a good Father, ſuch as Fa<g ref="char:EOLhyphen"/>ther <hi>Peters.</hi>
+            </p>
+            <p>KING of <hi>P—d</hi>
+            </p>
+            <p>Having received Orders, from the <hi>Pretreſs</hi> to make a confeſſion of all the Secrets of his Life, approached, and ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I repent, to have made ſo much noiſe of my Vi<g ref="char:EOLhyphen"/>ctories gotten over the Infidels, and to have called the Emperor, and the Princes of the Empire, ungrateful. I repent me, of having Amuſed the <hi>Czar</hi> of <hi>Muſcovy,</hi> my Allies, in promiſing them a great many things, I have not performed; I repent my ſelf alſo, for having had more concern, for Love of <hi>France,</hi> then for <hi>Po<g ref="char:EOLhyphen"/>land;</hi> I repent my ſelf, for having ſuffered the Empe<g ref="char:EOLhyphen"/>rour to take <hi>Hungary,</hi> ſince I might have partaken with him, of the Plunder, of the common Enemy, I repent my not taking <hi>Caminieck,</hi> the laſt Compagn when its Doors were opened to me, if <hi>France</hi> had not whiſpered in my Ear, ſtay, ſtay. I only Ask the Crown of <hi>Poland</hi> for my Son.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The King of <hi>France</hi> is a Fox, and if you follow his Councels, you will Live in the Hatred of your People, and your Son ſhall never be King.</p>
+            <p>The <hi>GRAND VISIER,</hi>
+            </p>
+            <p>After having ſaluted the Oracle of <hi>Tyophonius,</hi> and drank a Glaſs of the Water of <hi>Hircinas,</hi> deſcended into the Holy Cavern, and ſaid,</p>
+            <p>
+               <hi>La illa alha</hi> Mahomet <hi>raſoul alha.</hi>
+            </p>
+            <p>The new Sultan my Maſter would honour me with the Charge of Grand Viſier, I beſeech you inform me, what ſhall be my Fate?</p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>Take care of your ſelf, for the Neck of a Grand Vi<g ref="char:EOLhyphen"/>ſier draws to it the Bowſtring, as naturally, as Amber doth a Straw.</p>
+            <p>The KING of <hi>D—k</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>I am the Spie of the Northern Crowns, and when any thing remarkable happens amongſt my Neighbours, I inform the King of <hi>France</hi> of it, and the King of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> they promiſe me, ſo long as we continue Friends, we ſhall keep the Ballance equal, between the Empe<g ref="char:EOLhyphen"/>ror and the other Princes of <hi>Europe.</hi> I Anſwer, that I am content, ſo far, but I doubt <hi>France</hi> will always play the ſame play:</p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The King of <hi>France</hi> is often guilty of Deceits, take care of your ſelf.</p>
+            <p>The ELECTOR of <hi>S—y</hi>
+            </p>
+            <p>Making his Prayers, paſſed by <hi>Holland,</hi> and after ha<g ref="char:EOLhyphen"/>ving ſaluted the Prince of <hi>Orange,</hi> entred into the Tem<g ref="char:EOLhyphen"/>ple, and ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>I love the <hi>French</hi> Wine, but not the <hi>French,</hi> but I like better the <hi>Rheniſh</hi> Wine, and I am of opinion, that I ought to drink no other, although the King of <hi>France</hi> Cries Day and Night in my Ears, my Lewiſſes, and my good Champagn Wine. I beſeech you tell me what ſide I ſhall take.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The Emperor's ſide, and that of <hi>Holland.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:99494:7"/>
+After all Ceremonies were ended, and the Lot was going to be caſt, with much Reſpect and Veneration,</p>
+            <p>The Cardinal of <hi>FURSTENBERG</hi>
+            </p>
+            <p>Being entred in the Holy Cavern, in haſte, overturned the Lots and Urns.</p>
+            <p>The <hi>Pretreſs</hi> being diſturbed, ordered him to ſpeak, and he ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>Was there ever a Pope ſeen ſo wilfull, and ſtubborn, as ours now is? To have a Red Cap, I have endeavoured above Five Years, without interruption, and do ſo at this Day, to become Elector, and what way have I not tried? And I am not nearer it now than I was the firſt Year; if the King my Patron would have believed me, he ſhould have abandoned the affair of the Fran<g ref="char:EOLhyphen"/>chiſes at the beginning, without making ſo much noiſe about it, ſince the advantage of being Maſter of the <hi>Rhine,</hi> and by that to intercept the Communication of the Empire with <hi>Flanders,</hi> and ſo in few Years promiſe himſelf the Conqueſt of <hi>Holland;</hi> It had been better to have made an Exchange, of a Bull, with his Right of the Franchiſes, which is only,—without endeavouring to vex the Holy Father in his Old Age.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>For to have a Bull, and to make the Holy Father a<g ref="char:EOLhyphen"/>gree with his Eldeſt Son, it is neceſſary that Marſhal <hi>D'Eſtree</hi> quit the Barbarous <hi>Algeirs,</hi> to come and Bom<g ref="char:EOLhyphen"/>bard the Holy See at <hi>Rome.</hi>
+            </p>
+            <p>Dr. <hi>MOLINOS,</hi> the Cardinal <hi>PETRUC<g ref="char:EOLhyphen"/>CI,</hi> the Cardinal <hi>CICERO DON LIVIO DUCK DE CICERI,</hi> Nephew of the Pope, and other <hi>Quietiſts.</hi>
+            </p>
+            <p>Doctor <hi>Molinos,</hi> ſlepping forwards, ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>Praiſed be God, the Holy Father hath made us ac<g ref="char:EOLhyphen"/>counted Hereticks, and he is one himſelf, if it is true, that he is a Quiereſt, as it is reported; the Inquiſition having examined him, were about ſhutting him up in the <hi>Minerva,</hi> if the Cardinal <hi>D'Eſtre,</hi> (who betray<g ref="char:EOLhyphen"/>ed me, as <hi>Judas</hi> did our Saviour) had not prevailed with him, that he ought to diſſemble, which ſaved him. I beſeech you to inform me, How long this In<g ref="char:EOLhyphen"/>trigue ſhall laſt.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>In our Age the Power of the holy See is a Tyranny, which Sacrifices all to its Intereſts.</p>
+            <p>Madam of <hi>MONTESPAN.</hi>
+            </p>
+            <p>After much Ceremony ſhe whiſpered the God in the Ear, and asked him what ſhe would, at laſt ſhe ſtopped her Ears with her Hands, and went out, coming in a<g ref="char:EOLhyphen"/>gain, and ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>I have endured a great many difficulties ſince my Affairs went backwards at Court, the Good Man loves me no more, and the Old Hag <hi>Maintenon</hi> hath done me the good office, ſhe hath ſo buzzed the Ears of the King with the Merit of Mounſieur <hi>Scarron,</hi> that it hath made him have a mind to turn Poet. For my part not knowing to what Saint to pay my Vows, after ha<g ref="char:EOLhyphen"/>ving loſt the Great <hi>Louis,</hi> I am reſolved to imitate <hi>La Valliere.</hi>
+               </q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>To learn to ſtring <hi>Pater Noſters</hi> is a poor Life for <hi>Monteſpan.</hi>
+            </p>
+            <p>Madam of <hi>MAINTENON</hi>
+            </p>
+            <p>Took the way of the Temple accompanied by Father <hi>La Cheſe,</hi> who entertained her with the new Converts of <hi>France,</hi> and the hopes he had to ſee England in the ſame State, by the Care the Society took to provide a Succeſſor to the Crown; <hi>Maintenon</hi> being come near ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>That Father <hi>La Cheſe</hi> had informed her, that his Penitent by many repeated Confeſſions, that he always had a Paſſion for the Fair Sex, that neither Age, nor the Severities of Pennance, could ever reclaim him, we have a mind to Marry together, to the end that we may lead a good Life, and that there be no more diſ<g ref="char:EOLhyphen"/>courſe in the Royal Family of a Divorce. I beſeech you tell me, if I, being 60 Years Old, may yet be able to bring forth a Brother to the <hi>Dauphin;</hi> His Majeſty ſaith, he will keep only to me.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>The Fathers of <hi>Loyola</hi> have excellent Secrets, you being a Daughter of the Society, I would have Father <hi>Peters</hi> inform you how the Prince of <hi>W.</hi> came into the World.</q>
+            </p>
+            <p>The Mareſchal of <hi>ESTRES,</hi> Vice-Admi<g ref="char:EOLhyphen"/>ral of <hi>France,</hi> To the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>I have two great Deſigns to Execute, the firſt ob<g ref="char:EOLhyphen"/>ligeth me to deſtroy <hi>Algiers,</hi> and totally to burn that Barbarous People out of their Neſts, and on the Aſhes of this Rebellious Place I ought to Erect a Statue to His Majeſty, like to that which the Duke of <hi>Tuillade</hi> hath put up in the place of Victory, to the end that the Name of Great <hi>Louis</hi> may become the Terror of all <hi>Africa,</hi> as it is of all <hi>Europe,</hi> and that the Report of his great Victories may be conveyed by the Waters of the <hi>Mediterranean</hi> to the Ocean, and by the Ocean to the Four Extremities of the World. And in the ſecond place, I have Orders to go as ſoon as I can to the Coaſt of <hi>England</hi> to make that Rebellious Nation tremble at the Will of King <hi>James,</hi> and to oblige the Houſe of Lords and Commons to Revoke the Teſts and Penal Laws.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>Theſe <hi>Barbarians</hi> are turbulent, and reſolved to fight well. And the <hi>Engliſh</hi> expect only a contrary Wind to
+<pb n="11" facs="tcp:99494:7"/>
+prove to King J. and to <hi>Peters</hi> his Almoner, that the Prince of <hi>W.</hi> is Suppoſited.</p>
+            <p>The <hi>SWISSES</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>The King of <hi>France</hi> our Uncle is at length tired with ingaging us to the <hi>Germans</hi> in Wars. And we have managed the Affair ſo well, that he hath left poor <hi>Geneva</hi> in Peace. He is contented to ſee if we are afraid, but ſeeing the <hi>Swiſſes</hi> have always a good Stomach, and Drink well, his Counſel of Conſcience have not judged it proper to Bleed them; ſo that he is retired from us without bidding us farewel. We be<g ref="char:EOLhyphen"/>ſeech you to inform us, if he will ever return again.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The King your Uncle often makes ſuch Braggings.</p>
+            <p>GENEVA <hi>to the</hi> ORACLE.</p>
+            <p>The King of <hi>France,</hi> hath at laſt, granted us a Truce, for ſome Months, becauſe his Affairs preſs him a little too hard, on the <hi>Rhine,</hi> his Pretenſions on the <hi>Palatmate,</hi> his Franchiſes at <hi>Rome,</hi> the Stubborneſs of the Holy Fa<g ref="char:EOLhyphen"/>ther, the Election of <hi>Furſtenberg,</hi> have ſo imployed him, during the Spring, that he hath deſired us, by his Reſi<g ref="char:EOLhyphen"/>dent, to excuſe him, if he defers the Buſineſs to a fitter Opportunity. Beſides, That the new Converts cut him out ſo much Work, that he knows not which way to turn him: In the mean time Father <hi>La Cheſe,</hi> makes him believe, that before he dies, he ſhall enter with his Coach and Horſes into the greateſt Church of <hi>Geneva,</hi> adding, That he ought to keep fair, and expect until his Brother King J. hath equipped his Fleet.</p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>Watch and pray, for you know not the Hour when the Thief will come.</p>
+            <p>The <hi>ALGERINES</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>The King of <hi>France</hi> is a terrible Champion; after ha<g ref="char:EOLhyphen"/>ving purged the Hereticks out of his Kingdom, he ima<g ref="char:EOLhyphen"/>gines to purge the Sea of Pyrates, and to make the Coaſts of <hi>Barbary</hi> a Deſert: This is a great Deſign, and worthy of a great Monarch; but the <hi>Algerines</hi> have al<g ref="char:EOLhyphen"/>ready paſſed ſo many times through the Fire of their Bombs and Carcaſſes, that they are become half Devils, that Hell-Fire cannot burn them. If our Houſes were built ſo as his <hi>Verſai'les</hi> is, it had been long ſince reduced to Aſhes, and the Pallace of <hi>M'ezemorto</hi> had been no<g ref="char:EOLhyphen"/>thing but a Tomb; but they are built of a certain Cement, which the Fire cannot hurt; and the Three thouſand Bombs which the Marthal of <hi>Eſtres</hi> diſcharged againſt us, have done no more harm, than Bullets ſhot into the Air. Barbarian againſt Barbarian; he that is the moſt barbarous ſhall conquer: All the <hi>French</hi> that are in our Power ſhall be put in the Mouth of a Cannon; we have ſhot them the Conſul already, expecting to ſend them their King, if ever he fall into our Hands.</p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>You ought to keep him Priſoner.</p>
+            <p>All the <hi>ELECTORS</hi> of the <hi>EMPIRE.</hi>
+            </p>
+            <p>We are incompaſſed with the Claws of the Eagle, and the Paws of the Fox: The great <hi>Leopold</hi> on the ſide in<g ref="char:EOLhyphen"/>groſſes Villages, Provinces, and Kingdoms. The great <hi>Louis</hi> on the other ſide ravages amongſt us, ſometimes as a Lion, and ſometimes as a Fox, making his Bombs thunder amongſt us; making a thouſand fair Promiſes, to one, to oblige him to ſell his beſt places to them for their Liberty; to others, for to truck, exchange, or engage their Soveraignty. The great <hi>Leopold</hi> ſeeing all theſe Contrivances, adviſeth us, under hand, to have a care of ſuch deluſive Promiſes: The great <hi>Louis,</hi> on his ſide, whiſpers us by his Spies, <hi>Take care of your ſelves,</hi> Leopold <hi>becomes too powerful for you; you will ſhortly become Slaves of the Houſe of</hi> Auſtria: We beſeech thee tell us which is our true Intereſt.</p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>Your true Intereſt is, to joyn with the Emperor and the Empire, and to be of Opinion always, That the Fox will do his Endeavour to catch the Eagle and her Eag<g ref="char:EOLhyphen"/>leſs.</p>
+            <p>The Arch-biſhop of <hi>PARIS</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>I have hitherto done all the Good, and all the Ill, I could unto the Hugonots, in order to get a Cardinals Cap, and I have only a Mitre: The Biſhop of <hi>Camus,</hi> that is reputed a Heretick, and is really ſo in his Heart as well as the Cardinal of <hi>Furſtenberg,</hi> who is a very Li<g ref="char:EOLhyphen"/>bertine, given up to his Pleaſures, and hath got a Cap with eaſe: And I who daily ſing Veſpers, and aſſiſt at the holy Offices, with the Piety and Zeal of greateſt Prelate, is it poſſible that I ſhould have nothing to co<g ref="char:EOLhyphen"/>ver my Ears in my old Age?</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>It is true indeed, you are a great Mimmick, but the holy Father doth not reward Grimaces.</p>
+            <p>All the <hi>CANNONS</hi> of the Chapter of <hi>COLLOIGNE</hi>
+            </p>
+            <p>Came in a Body, and after having drank a Glaſs of the Water of the River <hi>Hircinas,</hi> and made a Sacrifice to the God <hi>Trophonius,</hi> they entered into the holy Cavern, and ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>The Cardinal of <hi>Furſtenberg</hi> is not worthy to wear the Electoral Bonnet, ſince the holy Father is not willing he ſhould: If we had the Power, neither ſhould the <hi>Prince</hi> of <hi>Bavaria,</hi> for we have received nothing from him; as to <hi>Furſtenburg</hi> we very much fear.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>For fear, leſt they ſtrangle you, for the ſure Charge is great, <hi>Qualitas bona, Quantitas mala, aiunt medici,</hi> The Phyſitians ſay the Quality is good, but the Quantity is ill.</p>
+            <p>All the Monks of <hi>FRANCE.</hi>
+            </p>
+            <p>Were carried by the Pretreſs into the Chappel of good <hi>Genius,</hi> and being firſt laid on the Earth, they entred the holy Cavern, after which the</p>
+            <p>
+               <pb n="12" facs="tcp:99494:8"/>DIVINITY.</p>
+            <p>Ordered them to ſing ſome <hi>Exaudions</hi> in Muſick, with a loud Voice.</p>
+            <p>
+               <hi>Omnes Sancti in C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elis, Exaudions, &amp; Orate pro nobis,</hi> (All the Holy in Heaven, hear us, and pray for us,) when the Quire began to repeat the <hi>Ora pro nobis,</hi> the <hi>Pretreſs</hi> Ordered the moſt Ancient and</p>
+            <p>VENERABLEST</p>
+            <p>to ſpeak, and they ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>At this time, we are the moſt Powerful part of the Government, under the Protection of a great King, we live in Peace, Eaſe, fatted with the Blood of the People, we fear neither War, nor Peace, and heaping up Riches, we become ſo powerful, that we give Laws to the Princes of the Earth, and it is by us that Kings Reign; we have ſecret ways to inſinuate our ſelves, and every one of us endeavours to play his part: We make Rich and Poor when we pleaſe; we affect to be counted Men of Eſtates, and to be Wick<g ref="char:EOLhyphen"/>ed, when we have a mind, and under the Cheating Mask of Vertue and Vice, we ſeduce the People, Hy<g ref="char:EOLhyphen"/>pocriſie is the higheſt degree of Perfection, and the Wiſeſt, moſt Pious, and Honeſteſt, amongſt us is a great Hypocrite; we have not made Virtue conſiſt in a ſevere exerciſe of good Thoughts, as the Ancient Philoſophers did, who not having the true way of in<g ref="char:EOLhyphen"/>joying this World, have lived in the middle, between Good and Evil, without coming to Extreams; in ſhort, we have ſo well Sung for Six or Seven Months, that the Queen of <hi>England</hi> hath at length had a Son.</q>
+            </p>
+            <p>The <hi>DIVINITY.</hi>
+            </p>
+            <p>Suppoſited.</p>
+            <p>Count <hi>TECKELY</hi>
+            </p>
+            <p>Came out of this Den, imitating the Savage-Beaſts, who ſuffer themſelves to be ſeen, when the Hunters and Dogs are retired out of the Field.</p>
+            <p>The <hi>PRETRESS</hi>
+            </p>
+            <p>Surpriſed to ſee him yet alive, made many Acclama<g ref="char:EOLhyphen"/>tions of Joy, Crying <hi>Helas; Helas,</hi> and immediately pre<g ref="char:EOLhyphen"/>ſented him with a Glaſs of the Water of the River <hi>Her<g ref="char:EOLhyphen"/>cinas,</hi> for—and made him ſit a Moment to reſt himſelf, after which he was conducted into the Holy Cave, and ſpake thus to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>You ſee here the moſt Wretched and Unfortunate Prince that ever was, notwithſtanding, I am ſtill living, by the Powerful Arm of the great God, who hath always preſerved me from the Hatred of the Em<g ref="char:EOLhyphen"/>peror my capital Enemy; againſt the King of <hi>France</hi> who hath betrayed me; againſt the Curſed Race of the Jeſuits, who have tried a Thouſand ways to Sacri<g ref="char:EOLhyphen"/>ſice me to their Rage. Againſt the Grand <hi>Seig<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ior,</hi> who cares for me no more than I am ſerviceable to him; and in fine, againſt a Thouſand and a Thou<g ref="char:EOLhyphen"/>ſand Enemies, who are contriving my Death. You ſee me a Fugitive, and Robbed of a Crown, which the Arch-Duke <hi>Joſeph</hi> wears for the Love of me. Yet notwithſtanding I have not loſt my Courage<g ref="char:punc">▪</g> and ſuch as you ſee me, I give a great deal of trouble to my Enemies.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>As long as thou liveſt thou ſhalt be between the two Rocks, always in danger—the Fathers of <hi>Loyo<g ref="char:EOLhyphen"/>la</hi> have ſurrounded thee like ſo many hungry Wolves ſeeking to devour thee.</p>
+            <p>Mounſieur le Cardinal de <hi>CAMUS.</hi>
+            </p>
+            <p>Being conducted to the Holy Cavern, one of the Pretreſs gave him her hand to help him to go down, leſt he ſhould fall; being come near, he made a Nar<g ref="char:EOLhyphen"/>ration of his Hiſtory, in an Eloquent manner, and ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>You ſee here a Fiſherman, like other Men; pardon I beſeech you the term which ſeems to be contrary to the cuſtom, ſince I have all reaſon imaginable to praiſe my ſelf, if I have any regard to that Great and Au<g ref="char:EOLhyphen"/>guſt Dignity the Purple hath raiſed me to; God be praiſed, I take a Glory to be Humble, as much as my proper Nature will permit me. You have been in<g ref="char:EOLhyphen"/>formed, without doubt, that it is my Zeal, and that I endeavour to acquit my ſelf of the Duty, to which the Charge of Paſtor, engageth me, by the pains I take to gather together the poor Sheep ſtrayed about the Holy Mother-Church. You know that I blame extreamly the ways of Rigor and Tyranny which is ex<g ref="char:EOLhyphen"/>erciſed, and that on the Conſciences of Perſons, whoſe greateſt Guilt is, that they pray to God in the purity of their Heart. That I have Preached, and ſtill do ſo that this harſh way is wholly oppoſite to the Chriſtian Religion. That I endeavour to prove it by all the Fa<g ref="char:EOLhyphen"/>thers of the Church, who never had any other way, than by Sweetneſs and Humanity: In ſhort, I have ſaid it, allow'd in the Chair, and ſhall eternally ſay it, of the Reverend Fathers of the Society, who Vomit out every Day their Gall and Rage againſt me; I leave them to their Opinions, and I have acted at preſent with ſo much Boldneſs, that the Holy Father begins to approve of my Conduct, and his Majeſty on the o<g ref="char:EOLhyphen"/>ther ſide Orders that I be taken for a Model and Ex<g ref="char:EOLhyphen"/>ample. In ſhort, you may ſee what I do, and what I have done hitherto. But one thing goes extreamly to my heart, and if I did dare to tell you, it is, that I am of the Opinion of thoſe poor People whom they Perſecute ſo much. As to what remains to be ſaid, it is delicate, and I beſeech you that it may be per<g ref="char:EOLhyphen"/>mitted, that I may be ſuſpected ſuch, but that the truth be never known.</q>
+            </p>
+            <p>ORACLE.</p>
+            <p>Janſeniſt, take care of your ſelf.</p>
+            <p>The Duke of <hi>BAVARIA.</hi>
+            </p>
+            <p>The Preſtreſs having conducted him into the Ca<g ref="char:EOLhyphen"/>vern, made him drink a Glaſs of the Water of the Ri<g ref="char:EOLhyphen"/>ver <hi>Hercinas,</hi> and bid him ſhut his Eyes, and ſpeak to the</p>
+            <p>
+               <pb n="13" facs="tcp:99494:8"/>DIVINITY.</p>
+            <p>
+               <q>Since my Marriage with the Daughter of the Em<g ref="char:EOLhyphen"/>pire, I have always got Victories, and gathered Law<g ref="char:EOLhyphen"/>rels, and the <hi>Ottoman</hi> War hath been my Apprenti<g ref="char:EOLhyphen"/>ſhip. I have abandoned the Intereſt of <hi>France,</hi> in quitting a conſiderable Penſion which ſhe gave me, becauſe it blotted my Glory, I have Married my Siſter to the Dauphin of <hi>France,</hi> he hath coſt me nothing, and what I have loſt on one ſide, I have gained on the other. I have failed in being Governour of the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Low Countries, by a Grant which the King of <hi>Spain</hi> would have made me, but it gave a Jealouſie to <hi>France,</hi> and this Affair is put off to another time. I have refuſed the Alliance of a Baſtard, that was of<g ref="char:EOLhyphen"/>fered me, becauſe it did not conſiſt with my Honour, beſides it would have made me a Slave to a Crown, that doth nothing but for Intereſt. At this time they Court me more than ever, the Emperor, my Father in Law, promiſeth me that there ſhall be no more Jealouſie between me and <hi>Lorrain,</hi> and that I ſhall have the ſole Command of all his Arms. The King of <hi>France</hi> promiſeth me that I ſhall ſhare with him in <hi>Spain,</hi> in <hi>Flanders,</hi> in <hi>Mallaine,</hi> in <hi>Perne,</hi> and <hi>Mexico,</hi> and in all the Goods of his Brother in Law, after his Death; what ſide ought I to take?</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The Empires ſide, in preferring thy own Glory, to that of the Emperor, and all the Electors, to the <hi>Caſtles</hi> in <hi>Spain,</hi> and to the Deceitful Promiſes of <hi>France.</hi>
+            </p>
+            <p>The <hi>PRETRESS.</hi>
+            </p>
+            <p>Seeing coming the</p>
+            <p>PARTISANS <hi>of</hi> FRANCE,</p>
+            <p>Came before them by the <hi>Chappel of Good Fortune,</hi> before they entred into the Holy Cavern.</p>
+            <p>The <hi>PRETRESS.</hi>
+            </p>
+            <p>Ordered, The moſt antient to ſit in the Chair of <hi>Mnemoſine,</hi> and to make a long Diſcourſe; having ſhut his Eyes, and opened his Mouth, he ſpoke thus to the</p>
+            <p>DIVINITY;</p>
+            <p>
+               <q>We are a Race Curſed by God, Bloody to the poor People, Diſturbers of the Publick Quiet, and Pre<g ref="char:EOLhyphen"/>ſervers of the Royal Authority; without us, the Kings would be Soveraigns without Power, of Power with<g ref="char:EOLhyphen"/>out Arms, of Riches without Silver; we grow Fat in the midſt of Plenty and Poverty, and we have the Secret to find Money where there is none. In ſhort, great Divinity, St. <hi>Louis,</hi> yet afore, was only a poor Saint of Wood, and we have made him at this Day a Saint of Gold, and when you ſhall ſee the Embaſſa<g ref="char:EOLhyphen"/>dors of the King of <hi>Siam,</hi> and of the King of <hi>China,</hi> Wiſe Men come from the the Eaſt, and powerful Kings ſend their Embaſſadors from another World, let not this ſurpriſe you: You ought to know, that all the Powers of the Earth are obliged to give him Marks of their Submiſſion, (becauſe this ſerves for his Glo<g ref="char:EOLhyphen"/>ry.) In the mean time, he ſeems to have forgot from whence he came, that he hath forgot his good Friends, he is become ſo fierce of late Years. in rela<g ref="char:EOLhyphen"/>tion to us, that we dare no more look upon him. And above all, ſince the Reverend Fathers of the Society have put him in the head, to chaſe away the <hi>Hugonots,</hi> without conſidering, that this doth us wrong; farther he hath taken care to purge us from time to time with good Taxes, for fear, left we growing too Rich, we ſhould be able to make War with him; but the Re<g ref="char:EOLhyphen"/>venue begins to diminiſh, and leſſens every day more and more by the great number of Refuges, who have quitted, and daily do quit, the Kingdom; who being the fat and ſtrength of the Nation, and Rich, and the beſt Pay-matters that we had, what ſhall we do now for Money? The</q>
+            </p>
+            <p>ORACLE.</p>
+            <p>Eſtabliſh real to Ruin the Nobility.</p>
+            <p>The Reverend Father <hi>TACHART</hi> Jeſuit and Embaſſador of the King of <hi>SIAM,</hi> to the Court of <hi>France,</hi>
+            </p>
+            <p>Was no ſooner arrived at the Sanctuary of <hi>Ham<g ref="char:EOLhyphen"/>mond,</hi> but all the Pretreſſes of the Divinity went out to ſee his Dreſs, there was one who would have him Dance, the Reverend Father having lifted up his Trian<g ref="char:EOLhyphen"/>gular Bonnet, ſaluted him with a Kiſs, praying him to excuſe him, and to introduce him into the Holy Cavern; the Twelve <hi>Mandarines</hi> that accompanied them were ordered to ſtay in the Chappel of <hi>Good Genius,</hi> the Re<g ref="char:EOLhyphen"/>verend Father <hi>Tachart</hi> being come near, ſaid to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>I am the Embaſſador of a great King, and I come from the other World to make an Alliance between <hi>Mahomet</hi> and the Chriſtians. The Society have choſen me, an Apoſtle, who ought to plant the Goſpel in the Kingdom of <hi>Siam.</hi> I have perſwaded the King of <hi>Si<g ref="char:EOLhyphen"/>am</hi> to ſend his Son to the Court of <hi>France,</hi> for to learn the Art there of Converting Hereticks, to the end that we may ſuddenly go to Hunt r e new Converts through all the <hi>Indies,</hi> I have already introduced into the chief Commands of the Kingdom the principal Members of our Society, and the King of <hi>Siam</hi> him<g ref="char:EOLhyphen"/>ſelf is a Zealous Catholick, who hath been a Zealous Idolater. The</q>
+            </p>
+            <p>ORACLE.</p>
+            <p>It much concerns the Society, for the execution of their great Deſigns, to Tranſport to the <hi>Indies</hi> a Naval Army of <hi>French</hi> Dragoons.</p>
+            <p>Monſieur Le Marquiſs de <hi>LOUVOIS,</hi> and Monſieur de <hi>VAVBAN</hi> Ingeneer-General of <hi>France,</hi>
+            </p>
+            <p>Having a mind to viſit the Frontier places, to ſee if all be in a good condition on this ſide of the <hi>Rhine,</hi> in caſe the Emperor, and his Allies ſhould openly oppoſe the Election of the Cardinal of <hi>Furſtenberg;</hi>
+            </p>
+            <p>The <hi>PRETRESS</hi>
+            </p>
+            <p>Seeing then appear,</p>
+            <p>Mounſieur, the Marques of <hi>LOUVOIS</hi>
+            </p>
+            <p>Came on firſt, and was conducted without loſs of time, into the Chappel of <hi>good Genius,</hi> where he ſalu<g ref="char:EOLhyphen"/>ted the <hi>Apollo</hi> of <hi>Claros,</hi> in paſſing, and from thence he came into the holy Cavern, and ſpoke thus to the</p>
+            <p>ORACLE.</p>
+            <p>
+               <q>His Majeſty is for War, and I for Peace, he is re<g ref="char:EOLhyphen"/>ſoived to make his Troops enter <hi>Cologne,</hi> and make <hi>Furſtenberg</hi> Elector, in deſpite of the Pope and the Empire. and for my part. I am of a contrary opini<g ref="char:EOLhyphen"/>on; I repreſent to him the pitiful condition that <hi>France</hi> is in at this time, its Coffers are empty, its Trade ruined, the new Converts ready to put off the Mask at the firſt Signal. I repreſent to him all the Electors of the Empire, and <hi>Holland,</hi> expecting War with im<g ref="char:EOLhyphen"/>patience, prudence is my Councel, and as long as we fiſh in troubled Waters, I ſhall be always for Peace, fearing to loſe in one Campagne what we have gained in ſix.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>So long as the <hi>Ottoman</hi> War ſhall laſt, the Deceitful Promiſes ſhall do more than Powerful Enemies.</p>
+            <p>Mounſieur de <hi>VAVBAN</hi>
+            </p>
+            <p>Who was buſie in conſidering the Avenue to the Holy Cave, and had already drawn on his Tablets, all that he ſaw curious in the Chappel of <hi>Good Genius,</hi> he was ordered by the Pretreſs to meddle no more with his Tablets, but to ſpeak his buſineſs, and to retire as faſt as he could; having ſhut his Eyes, and opened his Mouth, he ſpoke to the</p>
+            <p>
+               <pb n="14" facs="tcp:99494:9"/>ORACLE.</p>
+            <p>
+               <q>We have no reſt Day nor Night, and we are in a perpetual Motion, as the Water of a River that runs without ceaſing; and we run from Province to Province, from place to place, and from Frontier to Frontier; they may call us Fools. The Glory of our great Monarch, to which we Sacrifice all our Pains and Travels, is at preſent a great Idol we Adore, which will erect to us eternal Monuments, which all Ages will admire; all the Monks of <hi>France,</hi> chiefly the Je<g ref="char:EOLhyphen"/>ſuits, ſay that the Ring is Immortal, and that the Empire, as well as all the other Potentates of <hi>Europe,</hi> will be obliged to ſubmit to his Yoak, and to rank themſelves under his Obedience; we beſeech thee in<g ref="char:EOLhyphen"/>form us, what will be the Deſtiny of the Great <hi>Louis.</hi>
+               </q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The Great <hi>Louis</hi> hath Enemies without number, who expect only the reverſe of the Medal. That he always endeavours for Peace, in making a ſhew of declaring War, and this is his great Policy.</p>
+            <p>The Count de <hi>RAUNTS,</hi>
+            </p>
+            <p>Embaſſador of his Having received Order from the Emperor, and Ele<g ref="char:EOLhyphen"/>ctors of the Empire, to go immediately to the Holy Cavern, came forwards, and ſaid to the</p>
+            <p>ORACLE,</p>
+            <p>
+               <q>
+                  <hi>France</hi> hath endeavoured, for many Years, by his Money, and his Menaces, to make the Cardinal of <hi>Furſtenberg</hi> Elector of <hi>Cologne;</hi> the Emperor hath ordered me to repreſent to the Illuſtrious and moſt Reverend Chapter of <hi>Cologne,</hi> that the ſaid Cardinal, altho' a <hi>German</hi> by Birth, is gained to be a Slave to the Crown of <hi>France:</hi> That he hath often times be<g ref="char:EOLhyphen"/>trayed the Empire, and its Members, that he brought the War within the Dioceſs, and made it a Bloody Theatre, that he diſmembred <hi>Strasburgh</hi> from the Em<g ref="char:EOLhyphen"/>pire, and delivered the Citadel of <hi>Leige</hi> to a powerful Stranger; that at this Day he Quarters the <hi>French</hi> Troops in the ſtrong places of the Dioceſs; that he Fortifies <hi>Bonn</hi> with the <hi>Leuis</hi> of Gold which the King his Protector lends him, in hopes of being re<g ref="char:EOLhyphen"/>imburſed by him, in reſigning <hi>Cologne</hi> to him.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The Empire is a Machine difficult to manage, and <hi>France</hi> will Conquer it all, ſo long as Miſunderſtand<g ref="char:EOLhyphen"/>ings reigns amongſt them.</p>
+            <p>All the <hi>MONKS,</hi> and all the <hi>PRIESTS,</hi> of the <hi>Spaniſh Low Countries,</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>Since the Queen of <hi>England</hi> was brought to Bed, we are ordered, by the Holy Father, and all the Cler<g ref="char:EOLhyphen"/>gy of <hi>Spain,</hi> to Sing <hi>Ora pro nobis,</hi> and to Pray our Lady of <hi>Loretto,</hi> that the Queen of <hi>Spain</hi> may be with Child alſo. If the Princeſs of <hi>Orange</hi> and her Siſter the Princeſs of <hi>Denmark,</hi> were not Hereticks, we could at the ſame time Pray for them, and they ſhould have no cauſe to complain, if it happen that they remain Barren, while all the other Princes of <hi>Europe</hi> have reaſon to rejoice at their Fruitfulneſs.</q>
+            </p>
+            <p>The <hi>ORACLE</hi>
+            </p>
+            <p>In Barrenneſs, Father of Marvelous Effect, as well as the aſſiſtance of ſome good Father:</p>
+            <p>The moſt Serene Republick of <hi>VENICE</hi> came forward, attended by all the Senators; <hi>Moroſini</hi> ſpoke, in Quality of the <hi>Doge,</hi> and ſaid to the</p>
+            <p>DIVINITY.</p>
+            <p>
+               <q>We have purged one part of <hi>Greece,</hi> the <hi>Adriatick Gulph,</hi> the <hi>Morea,</hi> and ſome of the Iſlands of the <hi>Ar<g ref="char:EOLhyphen"/>chipelago,</hi> of infamous <hi>Mahometiſm,</hi> and we are about placing the Standard of Chriſtians in all the Churches of <hi>Conſtantinople.</hi> The Ports of the Holy <hi>Sophia</hi> are open to us, the Impoſtor <hi>Mahomet</hi> ſhall ſhortly have no Sanctuary, but the fearful Deſerts of <hi>Arabia,</hi> the Emperour, our Allie, ſolicites us to make Peace; all <hi>Italy</hi> repreſents to us that <hi>France</hi> makes advantage of our Conqueſts. If we ſuffer him to paſs the <hi>Alps,</hi> and if he advance on the <hi>Rhine,</hi> what ought we to do?</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>All <hi>Europe</hi> enjoys Peace in the Eaſt, and wiſh the War were in the Weſt. But ſince you have gone ſo far, take <hi>Candia</hi> to aſſure the Conqueſts.</p>
+            <p>The King of <hi>SIAM</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>I have ſent the Reverend Father <hi>Tachart,</hi> of the So<g ref="char:EOLhyphen"/>ciety of Jeſus, in Quality of Embaſſador Extraordi<g ref="char:EOLhyphen"/>nary, to the Court of <hi>France,</hi> there to treat of the Means to Convert my People from Idolatry, and to break Commerce with the <hi>Hollanders.</hi> Part of the Pagods of my Kingdoms are already Conſecrated to Chriſtianity, and have purged them of <hi>Marmaſets;</hi> and of Falſe Gods, with which they were filled. The Reverend Father <hi>Tachart</hi> hath Counſelled him to put in their places the Statues of St. <hi>Louis,</hi> and St. <hi>Ignati<g ref="char:EOLhyphen"/>us.</hi> On the other part, I have ſet out a Fleet, and I have built Fortreſſes on the Frontiers of my Countries, and the King of <hi>France</hi> hath ſent me Ingineers, and he deſires me to ſend my Son to him, that he may be Taught the Art of Reigning. The Jeſuits perſwade me to be willing that the Dragoons come, as Miſſio<g ref="char:EOLhyphen"/>naries, from <hi>France,</hi> to Convert my People. I beg of you to inform me what I ſhall do.</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>A good Dragoon is a good Apoſtle, but hath no Faith, Law, or Baptiſm.</p>
+            <p>The King of <hi>PERSIA</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>We are at the end of the World, if it be true that the Evangileſt of Jeſus Chriſt is Preached thro' all the Habitable Earth. There is no other Diſcourſe, but of making New Converts, as if the Son of God was come. The King of <hi>Siam</hi> my Brother hath choſen ra<g ref="char:EOLhyphen"/>ther to embrace the Croſs than the <hi>Alchoran,</hi> and a great many open the Port of the <hi>Eaſt</hi> to the Fathers of <hi>Loyola,</hi> who advance in Troops, and aſſembles in the <hi>Indies</hi> like Wild Loupes. If the Prophets accom<g ref="char:EOLhyphen"/>pliſh their Propheſies, and my Brother the Sultan is driven out of <hi>Europe, Conſtantinople,</hi> and all the Holy Places of our Prophet <hi>Mahomet</hi>'s Repoſe, will be purged of <hi>Mahometiſm,</hi> and I only ſhall be left in <hi>Aſia;</hi> I beſeech you what muſt I do to continue the Circumciſed, that they may ſpread over the whole World like an Univerſal Fire. And will not they Re<g ref="char:EOLhyphen"/>duce to Cinders the Moſques of the Great God, if we do not take hold of this opportunity?</q>
+            </p>
+            <p>The <hi>ORACLE.</hi>
+            </p>
+            <p>The ſureſt Remedy that can be, is to make a great Rampart Wall from <hi>Iſpaham</hi> to the Frontiers of <hi>Perſia,</hi> which may make a Tower of a Kingdom, to hinder the Fathers of <hi>Loyola</hi> from entring.</p>
+            <p>The <hi>Canade,</hi> or <hi>New-France,</hi> to the <hi>ORACLE.</hi>
+            </p>
+            <p>
+               <q>There is no finer Countries in the World for the Chaſing the new Converts, than this is, if the Fathers of <hi>Loyola</hi> will believe us, one paſſeth whole <hi>America,</hi> and principally into <hi>Canada,</hi> where are ſeveral great and vaſt Campagnes, Mountains, and Forreſts, where the Land flows with Milk and Honey, where the Taſte and Delicateneſs is to be prefer'd to the beſt Chicken in <hi>France.</hi> If the Great <hi>Louis</hi> was well Coun<g ref="char:EOLhyphen"/>ſell'd, he would let them Sing no more in his King<g ref="char:EOLhyphen"/>dom, for fear that <hi>France</hi> in the end ſhould become a frightful Deſert where none but the Society of Jeſuits Inhabit.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
